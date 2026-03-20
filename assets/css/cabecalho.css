@@ -1,0 +1,28 @@
+
+header {
+   /* border: 0.1rem solid red; */
+    height: 2rem;
+    background-color: #252523;
+    color: #eee;
+    display: flex;
+    /* justify-content: center; */
+    align-content: center;
+    align-items: center;
+    padding: .5rem;
+}
+
+.menu-hamburguer i {
+
+    font-size: 1.2rem;
+    color: #ccc;
+}
+.menu-hamburguer :hover i {
+
+    color: yellow;
+}
+
+.menu-hamburguer i:hover {
+
+    
+
+}
