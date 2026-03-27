@@ -1,5 +1,9 @@
 @import url("cartao.css");
 @import url("cabecalho.cs");
+@import url("menulateral.css");
+@import url("corpo.css");
+@import url("rodape.css");
+
 * {
     font-family: "Segoe UI", Arial, sans-serif;
     font-size: 16px;
@@ -22,7 +26,8 @@ section {
 
 nav {
     /* border: .1rem solid orangered; */
-    background-color: #eee;
+     width: 15rem;
+     background-color: #eee;
     padding: .5rem;
 }
 
